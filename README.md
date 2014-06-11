@@ -2,7 +2,9 @@ Annotated_Frames_of_Traffic_Accidents
 ===============================================
 
 Vehicle Detection Data Set for Traffic Analysis
+
 Authors: Pooya Khorrami, Xingqian Xu, Mert Dikmen, Thomas S. Huang
+
 Institution: University of Illinois - Urbana Champaign
 
 
